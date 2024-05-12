@@ -3,9 +3,10 @@
 I'm currently a B.Tech student majoring in Computer Science, passionate about software development and technology. Here's a glimpse into what I'm currently focused on:
 
 ## About Me
-- 🎓 I'm pursuing my B.Tech in Computer Science.
+- 🎓 I'm pursuing my B.Tech in Computer Science Engineering.
 - 💻 I love working on Web development projects, particularly using the MERN (MongoDB, Express, React, Node.js) stack.
 - 📱 I'm diving into Android app development and learning Kotlin to build native mobile applications.
+- 💻 I love to work on **Unix based OS** rather than any others.
 
 ## What I'm Doing
 - 🔭 Currently working on enhancing my skills through various web development projects, aiming to create responsive and dynamic applications.
@@ -14,7 +15,7 @@ I'm currently a B.Tech student majoring in Computer Science, passionate about so
 
 ## How You Can Help
 - 🤔 Seeking assistance and guidance in advancing my Android development skills.
-- 💬 Feel free to reach out to me if you have questions about **web development**, **linux** or want to discuss tech-related topics.
+- 💬 Feel free to reach out to me if you have any questions about **web development**, **linux** or want to discuss tech-related topics.
 
 ## Let's Connect!
 - 📫 You can reach me via email at [alexchandan321@gmail.com](mailto:alexchandan321@gmail.com).
