@@ -65,6 +65,7 @@ Credify is one of my primary projects and a practical exploration of building a 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,pnpm,vercel,vscode,linux,md,neovim,npm,figma&theme=dark" alt="Development tools" />
 </p>
+
 ---
 
 ## Engineering Interests
