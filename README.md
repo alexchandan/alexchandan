@@ -53,17 +53,17 @@ Credify is one of my primary projects and a practical exploration of building a 
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind&theme=dark" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,ts,js,tailwind,html,css&theme=dark" alt="Frontend technologies" />
 </p>
 
 ### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman,redis,firebase&theme=dark" alt="Backend technologies" />
 </p>
 
 ### Development & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,pnpm,vercel,vscode,linux&theme=dark" alt="Development tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,pnpm,vercel,vscode,linux,md,neovim,npm,figma&theme=dark" alt="Development tools" />
 </p>
 ---
 
