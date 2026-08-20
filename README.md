@@ -1,6 +1,6 @@
 <div align="center">
 
-# Chandan
+# Chandan Kumar
 
 ### Full-Stack Developer · Next.js · TypeScript · Node.js · MongoDB
 
