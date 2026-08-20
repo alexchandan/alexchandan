@@ -51,15 +51,20 @@ Credify is one of my primary projects and a practical exploration of building a 
 
 ## Technical Stack
 
-| Area               | Technologies                                         |
-| ------------------ | ---------------------------------------------------- |
-| **Frontend**       | Next.js, React, TypeScript, JavaScript, Tailwind CSS |
-| **Backend**        | Node.js, Express.js, REST APIs, JWT, Zod             |
-| **Database**       | MongoDB, Mongoose                                    |
-| **Infrastructure** | Vercel, Render, Cloudinary                           |
-| **Tooling**        | Git, GitHub, pnpm, ESLint, Prettier, Husky           |
-| **Environment**    | Linux, VS Code                                       |
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind&theme=dark" alt="Frontend technologies" />
+</p>
 
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend technologies" />
+</p>
+
+### Development & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,pnpm,vercel,vscode,linux&theme=dark" alt="Development tools" />
+</p>
 ---
 
 ## Engineering Interests
