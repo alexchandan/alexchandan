@@ -6,7 +6,7 @@
 
 I build **secure, scalable, and maintainable web products** with a strong focus on clean architecture, thoughtful user experience, and reliable backend systems.
 
-[Email](mailto:alexchandan321@gmail.com) · [GitHub](https://github.com/alexchandan)
+[Email](mailto:alexchandan321@gmail.com) · [LinkdIn](https://linkedin.com/alexchandan07) · [Portfolio](https://www.krchandan.online/)
 
 </div>
 
@@ -51,19 +51,19 @@ Credify is one of my primary projects and a practical exploration of building a 
 
 ## Technical Stack
 
-### Frontend
+### Frontend & Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,ts,js,tailwind,html,css&theme=dark" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,ts,js,tailwind,html,css,py,c,cpp,java,js&theme=dark" alt="Frontend technologies" />
 </p>
 
 ### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman,redis,firebase&theme=dark" alt="Backend technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman,redis,firebase,postgres,&theme=dark" alt="Backend technologies" />
 </p>
 
 ### Development & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,pnpm,vercel,vscode,linux,md,neovim,npm,figma&theme=dark" alt="Development tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,pnpm,vercel,vscode,linux,md,neovim,npm,notion,obsidian,figma&theme=dark" alt="Development tools" />
 </p>
 
 ---
