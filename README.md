@@ -6,7 +6,7 @@
 
 I build **secure, scalable, and maintainable web products** with a strong focus on clean architecture, thoughtful user experience, and reliable backend systems.
 
-[Email](mailto:alexchandan321@gmail.com) · [LinkdIn](https://linkedin.com/alexchandan07) · [Portfolio](https://www.krchandan.online/)
+[Email](mailto:alexchandan321@gmail.com) · [LinkdIn](https://www.linkedin.com/in/alexchandan07/) · [Portfolio](https://www.krchandan.online/)
 
 </div>
 
