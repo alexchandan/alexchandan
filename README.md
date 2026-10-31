@@ -45,7 +45,8 @@ Credify is one of my primary projects and a practical exploration of building a 
 `Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `Zod` · `JWT` · `Cloudinary` · `Resend` · `Pino` · `pnpm`
 
 **Repository:** [github.com/alexchandan/credify](https://github.com/alexchandan/credify)\
-**View Live on:** [credify.krchandan.online](https://credify.krchandan.online)
+**View Live on:** [credify.krchandan.online](https://credify.krchandan.online)\
+**More about Credify:** [krchandan.online/projects/credify](https://www.krchandan.online/projects/credify)
 
 ---
 
